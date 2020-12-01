@@ -11,9 +11,9 @@
         <properties>
             <!-- onderstaande kan uit: wordt automatisch geladen, omdat mysql op classpath (in pom) staat. -->
             <!-- <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/> -->
-            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jpademo"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/marktplaats"/>
             <property name="javax.persistence.jdbc.user" value="root"/>
-            <property name="javax.persistence.jdbc.password" value="root"/>
+            <property name="javax.persistence.jdbc.password" value="wachtwoord"/>
             <property name="hibernate.hbm2ddl.auto" value="update"/>
 <!--            <property name="hibernate.show_sql" value="true"/>-->
             <property name="hibernate.format_sql" value="true"/>
