@@ -170,3 +170,7 @@ nbdist/
 
 **/target/*
 **/logs/*
+/jargenerator/
+/unittesting/
+/unittesting/
+/databases/jdbc/
